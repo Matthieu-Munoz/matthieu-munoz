@@ -6,7 +6,7 @@
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=0E77F3&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+page;Just+a+junior+dev+paving+his+way;Always+aiming+higher)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=0E77F3&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+page;Just+a+junior+dev+paving+his+way;Always+aiming+higher)]()
 
 <p align="center">
   <a href="https://github.com/matthieu-munoz"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
