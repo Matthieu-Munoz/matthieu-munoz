@@ -70,7 +70,7 @@
 <p align="center">
   :muscle:
   <br>
-  <b>-&nbsp;&nbsp;Ce sur quoi j'apprends encore&nbsp;&nbsp;-</b>
+  <b>-&nbsp;&nbsp;Bientôt sur vos écrans&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
