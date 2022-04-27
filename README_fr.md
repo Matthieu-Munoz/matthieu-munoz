@@ -1,6 +1,6 @@
 <h1>
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-&nbsp;Bien le bonjour! Moi c'est <a href="https://github.com/matthieu-munoz">Matthieu</a>
+&nbsp;Bien le bonjour! Moi c'est Matthieu
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" />
 </h1>
 
@@ -43,7 +43,9 @@
 <hr/>
 
 <p align="center">
-  <b>:revolving_hearts: &nbsp;Ce que je connais et aime</b>
+  :revolving_hearts:
+  <br>
+  <b>-&nbsp;&nbsp;Ce que je connais et aime&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
@@ -51,7 +53,9 @@
 </p>
 
 <p align="center">
-  <b>:octocat: &nbsp;Ce avec quoi je suis à l'aise</b>
+  :ok_hand:
+  <br>
+  <b>-&nbsp;&nbsp;Ce avec quoi je suis à l'aise&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
@@ -64,7 +68,9 @@
 </p>
 
 <p align="center">
-  <b>:muscle: &nbsp;Ce sur quoi j'apprends encore</b>
+  :muscle:
+  <br>
+  <b>-&nbsp;&nbsp;Ce sur quoi j'apprends encore&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
@@ -76,7 +82,9 @@
 </p>
 
 <p align="center">
-  <b>:gear: &nbsp;Statistique GitHub</b>
+  :gear:
+  <br>
+  <b>-&nbsp;&nbsp;Statistique GitHub&nbsp;&nbsp;-</b>
 </p>
 
 <br/>

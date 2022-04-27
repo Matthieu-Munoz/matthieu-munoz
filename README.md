@@ -1,6 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  &nbsp;Howdy! I am <a href="https://github.com/matthieu-munoz">Matthieu</a>
+  &nbsp;Howdy! I am Matthieu
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" />
 </h1>
 
@@ -34,7 +34,7 @@
 <p align="justify">
   After more than four years spent in a metalwork workshop as a design technician, I began a professional retraining towards web development.
   I got introduced to the world of Web dev through personal projects which strongly aroused my curiosity, but mainly expressed my desire to be part of this world.
-  So, I started courses at <a href="https://oclock.io/">O'Clock</a>, with a PHP base and a specialization in ReactJS, I learned the tricks of the trade, but I also became aware of my preferences.
+  So, I started to study at <a href="https://oclock.io/">O'Clock</a>, with a PHP base and a specialization in ReactJS, I learned the tricks of the trade, but I also became aware of my preferences.
 </p>
 <br>
 <p align="center">
@@ -44,7 +44,9 @@
 <hr/>
 
 <p align="center">
-  :revolving_hearts: &nbsp;<b>What I know and love</b>
+  :revolving_hearts:
+  <br>
+  <b>-&nbsp;&nbsp;What I know and love&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
@@ -57,7 +59,9 @@
 </p>
 
 <p align="center">
-  :octocat: &nbsp;<b>What I'm comfortable with</b>
+  :ok_hand:
+  <br>
+  <b>-&nbsp;&nbsp;What I'm comfortable with&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
@@ -70,7 +74,9 @@
 </p>
 
 <p align="center">
-  :muscle: &nbsp;<b>What I'm still working on</b>
+  :muscle:
+  <br>
+  <b>-&nbsp;&nbsp;What I'm still working on&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
@@ -82,7 +88,9 @@
 </p>
 
 <p align="center">
-  :gear: &nbsp;<b>GitHub Statistics</b>
+  :gear:
+  <br>
+  <b>-&nbsp;&nbsp;GitHub Statistics&nbsp;&nbsp;-</b>
 </p>
 
 <p align="center">
