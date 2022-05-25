@@ -1,12 +1,12 @@
 <h1>
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 &nbsp;Bien le bonjour! Moi c'est Matthieu
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" />
+<img src="assets/images/flower.png" width="30px" />
 </h1>
 
 <table align="right">
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="assets/images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=0E77F3&center=true&vCenter=true&width=800&lines=Bienvenue+sur+ma+page+GitHub;Dev+junior+parcourant+son+bout+de+chemin;Visant+toujours+plus+haut)]()
@@ -31,6 +31,10 @@
 
 <hr/>
 
+<p align="center">
+  <img src="assets/images/logo.png" width="200px" />
+</p>
+
 <p align="justify">
   Après plus de quatre ans passés dans un atelier de métallerie ferronnerie d'art comme technicien d'étude, j'ai commencé une reconversion professionnelle vers le développement web. J'ai découvert ce milieu par des projets personnels qui ont fortement attisé ma curiosité, mais surtout mon envie de faire partie de ce monde.
   J'ai donc suivi une formation chez <a href="https://oclock.io/">O'Clock</a>, avec un socle PHP et une spécialisation en ReactJS, j'ai appris les ficelles du métier, mais j'ai aussi pris conscience de mes préférences.
@@ -39,6 +43,19 @@
 <p align="center">
   <b>Aujourd'hui, je me spécialise donc en développement front-end en gardant des compétences full-stack.</b>
 </p>
+
+<h3 align="center">
+  Deux projets recents
+</h3>
+
+<p align="center">
+<a href="https://dustyourgames.com/"><img height="125px" src="assets/images/dyg.png" /></a>
+<a href="https://aphantasiaclub.org/"><img height="125px" src="assets/images/ac.png" /></a>
+</p>
+
+<h3 align="center">
+<a href="assets/resume.pdf">Mon CV</a>
+</h3>
 
 <hr/>
 

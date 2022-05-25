@@ -1,12 +1,12 @@
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   &nbsp;Howdy! I am Matthieu
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" />
+  <img src="assets/images/flower.png" width="30px" />
 </h1>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="assets/images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=0E77F3&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+page;Just+a+junior+dev+paving+his+way;Always+aiming+higher)]()
@@ -31,6 +31,10 @@
 
 <hr/>
 
+<p align="center">
+  <img src="assets/images/logo.png" width="200px" />
+</p>
+
 <p align="justify">
   After more than four years spent in a metalwork workshop as a design technician, I began a professional retraining towards web development.
   I got introduced to the world of Web dev through personal projects which strongly aroused my curiosity, but mainly expressed my desire to be part of this world.
@@ -40,6 +44,19 @@
 <p align="center">
   <b>Nowadays, I specialize in front-end development while keeping full-stack skills.</b>
 </p>
+
+<h3 align="center">
+  Two recent projects
+</h3>
+
+<p align="center">
+<a href="https://dustyourgames.com/"><img height="125px" src="assets/images/dyg.png" /></a>
+<a href="https://aphantasiaclub.org/"><img height="125px" src="assets/images/ac.png" /></a>
+</p>
+
+<h3 align="center">
+<a href="assets/resume.pdf">My resume</a>
+</h3>
 
 <hr/>
 
