@@ -32,7 +32,9 @@
 <hr/>
 
 <p align="center">
+  <a href="https://matthieu-munoz.fr">
   <img src="assets/images/logo.png" width="200px" />
+  </a>
 </p>
 
 <p align="justify">
@@ -55,7 +57,7 @@
 </p>
 
 <h3 align="center">
-<a href="assets/resume.pdf">My resume</a>
+<a href="assets/resume.pdf">RESUME</a> | <a href="https://matthieu-munoz.frf">PORTFOLIO</a>
 </h3>
 
 <hr/>
