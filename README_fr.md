@@ -1,5 +1,5 @@
 <h1>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
 &nbsp;Bien le bonjour! Moi c'est Matthieu
 <img src="assets/images/flower.png" width="30px" />
 </h1>
@@ -57,7 +57,7 @@
 
 <h3 align="center">
 
-<a href="assets/resume.pdf">Mon CV</a> | <a href="https://matthieu-munoz.frf">Mon portfolio</a>
+<a href="assets/resume.pdf">Mon CV</a> | <a href="https://matthieu-munoz.fr">Mon portfolio</a>
 
 </h3>
 
