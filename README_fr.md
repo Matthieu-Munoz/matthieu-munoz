@@ -38,12 +38,9 @@
 </p>
 
 <p align="justify">
-  Après plus de quatre ans passés dans un atelier de métallerie ferronnerie d'art comme technicien d'étude, j'ai commencé une reconversion professionnelle vers le développement web. J'ai découvert ce milieu par des projets personnels qui ont fortement attisé ma curiosité, mais surtout mon envie de faire partie de ce monde.
-  J'ai donc suivi une formation chez <a href="https://oclock.io/">O'Clock</a>, avec un socle PHP et une spécialisation en ReactJS, j'ai appris les ficelles du métier, mais j'ai aussi pris conscience de mes préférences.
-</p>
-<br>
-<p align="center">
-  <b>Aujourd'hui, je me spécialise donc en développement front-end en gardant des compétences full-stack.</b>
+  Avec plus de quatre ans d'expérience en tant que technicien en conception dans un atelier de métallerie, je me suis réorienté professionnellement vers le développement web. Ma curiosité a été portée par des projets personnels qui m'ont donné envie de rejoindre cet univers passionnant. Suite à cela, j'ai étudié avec <a href="https://oclock.io/">O'Clock</a> où j'ai acquis des compétences solides en PHP et je me suis spécialisé en ReactJS.
+  <br>
+  Aujourd'hui, avec une expérience approfondie en développement web et mobile, je suis spécialisé dans le développement front-end tout en conservant mes compétences full-stack. Mon parcours chez Digitale Deluxe m'a permis de travailler sur divers projets, incluant la refonte graphique, l'intégration à partir de maquettes, l'optimisation SEO et la gestion de projets sous Drupal 9 et WordPress. En tant que webmaster pour l'Association Aphantasia Club, j'ai été responsable de la création et de l'optimisation d'un site WordPress, ainsi que de l'utilisation d'outils graphiques tels que Canva et Figma.
 </p>
 
 <h3 align="center">
@@ -51,7 +48,7 @@
 </h3>
 
 <p align="center">
-<a href="https://dustyourgames.com/"><img height="125px" src="assets/images/dyg.png" /></a>
+<a href="https://matthieu-munoz.fr"><img height="125px" src="assets/images/logo.png" /></a>
 <a href="https://aphantasiaclub.org/"><img height="125px" src="assets/images/ac.png" /></a>
 </p>
 
@@ -70,7 +67,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
 </p>
 
 <p align="center">
@@ -95,7 +93,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>

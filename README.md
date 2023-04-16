@@ -38,13 +38,9 @@
 </p>
 
 <p align="justify">
-  After more than four years spent in a metalwork workshop as a design technician, I began a professional retraining towards web development.
-  I got introduced to the world of Web dev through personal projects which strongly aroused my curiosity, but mainly expressed my desire to be part of this world.
-  So, I started to study at <a href="https://oclock.io/">O'Clock</a>, with a PHP base and a specialization in ReactJS, I learned the tricks of the trade, but I also became aware of my preferences.
-</p>
-<br>
-<p align="center">
-  <b>Nowadays, I specialize in front-end development while keeping full-stack skills.</b>
+  With over four years of experience as a design technician in a metalwork workshop, I made a professional transition towards web development. My curiosity was piqued by personal projects, which fueled my desire to be a part of this exciting world. Subsequently, I studied at <a href="https://oclock.io/">O'Clock</a>, where I gained a strong foundation in PHP and specialized in ReactJS.
+  <br>
+  Nowadays, with extensive experience in web and mobile development, I specialize in front-end development while maintaining full-stack skills. My journey at Digitale Deluxe allowed me to work on diverse projects, including graphic redesigns, integration from mockups, SEO optimization, and project management using Drupal 9 and WordPress. As the webmaster for the Aphantasia Club Association, I was responsible for creating and optimizing a WordPress site, as well as utilizing graphic tools such as Canva and Figma.
 </p>
 
 <h3 align="center">
@@ -52,7 +48,7 @@
 </h3>
 
 <p align="center">
-<a href="https://dustyourgames.com/"><img height="125px" src="assets/images/dyg.png" /></a>
+<a href="https://matthieu-munoz.fr"><img height="125px" src="assets/images/logo.png" /></a>
 <a href="https://aphantasiaclub.org/"><img height="125px" src="assets/images/ac.png" /></a>
 </p>
 
@@ -71,6 +67,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -99,7 +96,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
