@@ -38,9 +38,10 @@
 </p>
 
 <p align="justify">
-  Avec plus de quatre ans d'expérience en tant que technicien en conception dans un atelier de métallerie, je me suis réorienté professionnellement vers le développement web. Ma curiosité a été portée par des projets personnels qui m'ont donné envie de rejoindre cet univers passionnant. Suite à cela, j'ai étudié avec <a href="https://oclock.io/">O'Clock</a> où j'ai acquis des compétences solides en PHP et je me suis spécialisé en ReactJS.
+  Je suis un développeur web passionné par la création d'expériences digitales engageantes et intuitives. Fort d'une formation intensive suivie de deux ans d'expérience chez Digitale Deluxe, une agence web Bisontine, j'ai affiné mes compétences en développement front-end et en intégration tout en conservant une polyvalence full-stack en PHP. Je m'épanouis particulièrement dans la collaboration au sein d'une équipe pour donner vie à des visions créatives. Que ce soit à travers des refontes graphiques, de l'intégration de maquettes ou la gestion de projets construits sur Drupal, WordPress ou entièrement sur mesure.
   <br>
-  Aujourd'hui, avec une expérience approfondie en développement web et mobile, je suis spécialisé dans le développement front-end tout en conservant mes compétences full-stack. Mon parcours chez Digitale Deluxe m'a permis de travailler sur divers projets, incluant la refonte graphique, l'intégration à partir de maquettes, l'optimisation SEO et la gestion de projets sous Drupal 9 et WordPress. En tant que webmaster pour l'Association Aphantasia Club, j'ai été responsable de la création et de l'optimisation d'un site WordPress, ainsi que de l'utilisation d'outils graphiques tels que Canva et Figma.
+  <br>
+  Au-delà de mon travail en agence, j'aime mettre mes compétences au service de projets qui me tiennent à cœur. En tant que co-fondateur et webmaster de l'association Aphantasia Club, j'ai conçu et optimisé le site WordPress, démontrant ainsi ma capacité à allier expertise technique et passion pour un impact positif.
 </p>
 
 <h3 align="center">
@@ -67,8 +68,14 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -79,7 +86,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twig-2EC866?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drupal-2962FF?style=for-the-badge&logo=drupal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
@@ -93,10 +103,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <p align="center">
