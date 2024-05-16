@@ -49,7 +49,7 @@
 </h3>
 
 <p align="center">
-<a href="https://matthieu-munoz.fr"><img height="125px" src="assets/images/logo.png" /></a>
+<a href="https://www.ecm-france.fr/"><img height="125px" src="assets/images/ecm.png" /></a>
 <a href="https://aphantasiaclub.org/"><img height="125px" src="assets/images/ac.png" /></a>
 </p>
 
