@@ -45,10 +45,11 @@
 </p>
 
 <h3 align="center">
-  Deux projets recents
+  Mes projets recents
 </h3>
 
 <p align="center">
+<a href="https://de-masque.net/"><img height="125px" src="assets/images/de-masque.png" /></a>
 <a href="https://www.ecm-france.fr/"><img height="125px" src="assets/images/ecm.png" /></a>
 <a href="https://aphantasiaclub.org/"><img height="125px" src="assets/images/ac.png" /></a>
 </p>
